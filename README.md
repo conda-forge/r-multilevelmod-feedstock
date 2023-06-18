@@ -1,11 +1,11 @@
-About r-multilevelmod
-=====================
+About r-multilevelmod-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-multilevelmod-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/tidymodels/multilevelmod, http://multilevelmod.tidymodels.org/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-multilevelmod-feedstock/blob/main/LICENSE.txt)
 
 Summary: Bindings for hierarchical regression models for use with the 'parsnip' package. Models include longitudinal generalized linear models (Liang and Zeger, 1986) <doi:10.1093/biomet/73.1.13>, and mixed-effect models (Pinheiro and Bates) <doi:10.1007/978-1-4419-0318-1_1>.
 
