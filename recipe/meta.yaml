@@ -1,6 +1,5 @@
 {% set version = '1.0.0' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-multilevelmod
@@ -13,8 +12,7 @@ source:
   sha256: 53dc6c53a9aec1644a036c852351deaecd4fcf6176f2a2d85e7d73a00437016b
 
 build:
-  merge_build_host: True  # [win]
-  number: 1
+  number: 2
   noarch: generic
   rpaths:
     - lib/R/lib/
